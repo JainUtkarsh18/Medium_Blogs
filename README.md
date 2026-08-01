@@ -1,4 +1,4 @@
-# ML, GenAI, AI Research & Engineering Blogs
+# ML, GenAI, AI Research & Engineering Medium Blogs
 
 > A curated collection of my technical articles covering **Generative AI, Diffusion Models, Computer Vision, Deep Learning, and AI Research**.
 
