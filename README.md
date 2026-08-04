@@ -4,7 +4,7 @@
 
 The goal of this repository is to explain modern AI concepts with a strong emphasis on the **engineering, mathematics, practical challenges, and research insights** behind today's most influential models and technologies.
 
-Profile: [Utkarsh Jain_Medium](https://medium.com/@jainutkarsh18)
+Profile: [Utkarsh Jain_Medium](https://medium.com/@jainutkarsh18) 
 
 ---
 
